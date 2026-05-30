@@ -1,12 +1,9 @@
 
-```markdown
 # 🔒 Lab d'Audit de Sécurité Mobile
 
 ## 📋 Description
 
 Laboratoire d'audit défensif d'application mobile utilisant BeVigil et Yaazhini pour collecter des signaux d'exposition, trier les résultats et produire un rapport selon les standards OWASP.
-
-```
 
 ## 🛠️ Outils Requis
 
