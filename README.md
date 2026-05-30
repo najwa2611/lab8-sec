@@ -1,4 +1,3 @@
-Voici le fichier `README.md` simplifié, sans les sections destinées à l'auditeur (troubleshooting, notes d'analyse, etc.) :
 
 ```markdown
 # 🔒 Lab d'Audit de Sécurité Mobile
